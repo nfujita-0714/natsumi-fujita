@@ -3,6 +3,31 @@
    text-align: right;
    height: 7rem;
 }
+
+.contact td {
+  padding-left: 10px;
+}
+
 td .input_form {
   width: 480px;
+}
+
+.textarea_form {
+  width: 100%;
+}
+
+  .button {
+    width: 100px;
+    color: white;
+    background: #008B8B;
+    background-color: none;
+    padding: 10px;
+    font-size: 3rem;
+    margin: 0 auto;
+    display: block;
+  }
+
+.button:hover {
+  background: #008B8B;
+  opacity: 0.5;
 }
